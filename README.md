@@ -1,4 +1,5 @@
 reference文件夾放在source裏面
+questions_preliminary.json和main.py放在同一級
 
 直接運行main.py即可
 
